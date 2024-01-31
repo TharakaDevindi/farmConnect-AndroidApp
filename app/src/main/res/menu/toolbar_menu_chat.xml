@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Search"
+        app:showAsAction="always"
+        android:iconTint="@color/white"
+        android:iconTintMode="src_atop"
+        android:id="@+id/search"
+        android:icon="@drawable/baseline_search_24"
+        app:actionViewClass="androidx.appcompat.widget.SearchView" />
+
+    <item
+        android:title="Delete"
+        android:iconTint="@color/white"
+        android:iconTintMode="src_atop"
+        app:showAsAction="always"
+        android:icon="@drawable/baseline_delete_24"
+        android:id="@+id/deleteAllSelectedMessages"/>
+    <item
+        android:title="Share"
+        android:iconTint="@color/white"
+        android:iconTintMode="src_atop"
+        app:showAsAction="always"
+        android:icon="@drawable/baseline_share_24"
+        android:id="@+id/shareAllSelectedMessages"/>
+</menu>

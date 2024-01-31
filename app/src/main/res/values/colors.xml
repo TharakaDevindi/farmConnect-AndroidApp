@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FF81d3f9</color>
+    <color name="purple_500">#FF09a9f4</color>
+    <color name="purple_700">#FF0a88d1</color>
+    <color name="teal_200">#FFef9a9a</color>
+    <color name="teal_500">#FFf44336</color>
+    <color name="teal_700">#FFd32f2f</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#D8D8D8</color>
+    <color name="blue">#000033</color>
+    <color name="smart_login_button_background">#3ED623</color>
+    <color name="smart_login_button_shadow_color">#6600FF00</color>
+</resources>

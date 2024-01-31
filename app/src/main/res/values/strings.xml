@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Farm Connect</string>
+    <string name="login">Login</string>
+    <string name="tv_user_1">Test User</string>
+    <string name="tv_user_2">Tharaka</string>
+    <string name="tv_user_3">Devindi</string>
+    <string name="tv_messge">Hello World!</string>
+    <string name="_10_25_pm">10:25 PM</string>
+</resources>
